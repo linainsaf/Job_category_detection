@@ -16,7 +16,7 @@ Multi-class classification is the task of classifying elements into different cl
   ![multiclass](screenshots/multi_class.png)
 
 
-Since the goal here is also to classify job titles into categories, we are going to use the same process as in https://github.com/linainsaf/Binary_classification_job_location, meaning : 
+Since the goal here is also to classify job titles into categories, we are going to use the same process as in https://github.com/linainsaf/Binary_classification_job_location 
     
 
 ## Dataset preparation
