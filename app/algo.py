@@ -8,10 +8,10 @@ from sklearn.pipeline import make_pipeline
 import joblib
 
 # import Data
-df = pd.read_csv('../Data/data_cleaned.csv')
+#df = pd.read_csv('../Data/data_cleaned.csv')
 
 # split my data into train and test data
-X_train, X_test, y_train, y_test = train_test_split(df['input_data'],
+#X_train, X_test, y_train, y_test = train_test_split(df['input_data'],
                                                     df['labels'],
                                                     train_size=0.8,
                                                     random_state=123)
